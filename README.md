@@ -1,2 +1,1 @@
-# Kali-Linux-Lab-01
-Virtualized Kali Linux lab covering various Linux commands, tools, scripts, and more, by utilizing personally owned networks and devices to focus on understanding and troubleshooting cyber security principles.
+Virtualized Kali Linux network-security lab featuring dual USB Wi-Fi adapters, AP and monitor modes, Wireshark analysis, Nmap auditing, and documented troubleshooting.
